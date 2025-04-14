@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawal Al Mawali</h1>
-<h3 align="center">A passionate Data Engineer from Oman</h3>
+<h3 align="center">A passionate Senior Data Engineer from Oman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawalhamed&label=Profile%20views&color=0e75b6&style=flat" alt="nawalhamed" /> </p>
 
